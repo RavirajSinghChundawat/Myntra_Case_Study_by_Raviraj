@@ -1,11 +1,11 @@
-Myntra Apparel Data Analysis Case Study
-Project Overview
+**Myntra Apparel Data Analysis Case Study**
+**Project Overview**
 
 This project presents an end-to-end data analysis case study on Myntra’s apparel dataset, focusing on data cleaning, transformation, analysis, and retrieval using Microsoft Excel. The goal of this project is to convert raw e-commerce product data into a clean, analysis-ready dataset and extract meaningful business insights using structured Excel formulas and analytical techniques.
 
 The case study simulates a real-world retail analytics scenario where accurate discount calculations, pricing consistency, and product availability insights are critical for decision-making.
 
-Objectives
+**Objectives**
 
 Clean and standardize raw apparel product data
 
@@ -17,7 +17,7 @@ Retrieve product-level insights using lookup functions
 
 Create logical classifications for business interpretation
 
-Data Cleaning & Preparation
+**Data Cleaning & Preparation**
 
 The following data preparation steps were performed:
 
@@ -44,7 +44,7 @@ Discount Amount
 
 Discounted Price (rounded using business-friendly logic)
 
-Data Analysis Performed
+**Data Analysis Performed**
 
 Key analytical questions answered in this project:
 
@@ -62,7 +62,7 @@ Low Discount (≤50%)
 
 These insights help identify high-value discounts, popular size availability, and premium product segments.
 
-Data Retrieval & Lookup Techniques
+**Data Retrieval & Lookup Techniques**
 
 Advanced Excel lookup techniques were used to simulate real business queries:
 
@@ -82,7 +82,7 @@ Data Validation
 
 Dropdown-driven dynamic analysis for flexible reporting
 
-Tools & Functions Used
+**Tools & Functions Used**
 
 Microsoft Excel
 
@@ -102,13 +102,7 @@ FLOOR.MATH
 
 Wildcards (*) for flexible text matching
 
-Project Files
-
-Myntra Case Study (Excel) – Complete cleaned and analyzed dataset
-
-Myntra Apparel Analysis (PDF) – Step-by-step explanation, formulas, and outputs
-
-Key Takeaways
+**Key Takeaways**
 
 Demonstrates strong Excel fundamentals applied to a real business dataset
 
@@ -118,6 +112,6 @@ Reflects practical skills required for Data Analyst / Business Analyst roles
 
 Emphasizes accuracy, consistency, and business-ready outputs
 
-Author
+**Author**
 
 Raviraj Singh Chundawat
